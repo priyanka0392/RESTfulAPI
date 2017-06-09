@@ -1,0 +1,12 @@
+org/avenuecode/assessment/resources/OrderResource.class
+org/avenuecode/assessment/config/JerseyConfig.class
+org/avenuecode/assessment/Model/Order.class
+org/avenuecode/assessment/Model/Dao/OrderRepository.class
+org/avenuecode/assessment/Model/OrderProduct.class
+org/avenuecode/assessment/service/ProductService.class
+org/avenuecode/assessment/service/OrderService.class
+org/avenuecode/assessment/Model/Dao/ProductRepository.class
+org/avenuecode/assessment/resources/ProductResource.class
+org/avenuecode/assessment/Model/Dao/OrderProductRepository.class
+org/avenuecode/assessment/Model/Product.class
+org/avenuecode/assessment/EcommerceappApplication.class
